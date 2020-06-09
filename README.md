@@ -1,2 +1,3 @@
-# ARQUITECTURA-DE-ORDENADORES
-Prácticas realizadas para la asignatura de Arquitectura de Ordenadores, del tercer curso de Ingeniería Informática.
+# ARQUITECTURA DE ORDENADORES
+
+_Prácticas realizadas para la asignatura de Arquitectura de Ordenadores, del tercer curso de Ingeniería Informática_
